@@ -1,3 +1,4 @@
 data/
 
 game_logs.csv
+.env
