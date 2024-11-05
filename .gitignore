@@ -1,4 +1,6 @@
 data/
 
 game_logs.csv
+advanced_stats.csv
+
 .env
